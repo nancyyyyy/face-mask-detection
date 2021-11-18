@@ -1,6 +1,6 @@
 # face-mask-detection
 
-Process followed is
+Process followed is---
 Collect face data with and without mask -> Train Data using Machine learning-> Do prediction on Live Data using Camera
 
 About this project
